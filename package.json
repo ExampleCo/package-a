@@ -1,15 +1,14 @@
 {
-  "name": "boilerplate-typescript-package",
+  "name": "@exampleco/package-a",
   "version": "1.0.0",
-  "private": true,
   "description": "",
-  "homepage": "https://github.com/jessety/boilerplate-typescript-package#readme",
+  "homepage": "https://github.com/exampleco/package-a#readme",
   "bugs": {
-    "url": "https://github.com/jessety/boilerplate-typescript-package/issues"
+    "url": "https://github.com/exampleco/package-a/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jessety/boilerplate-typescript-package.git"
+    "url": "git+https://github.com/exampleco/package-a.git"
   },
   "license": "MIT",
   "author": "Jesse Youngblood",
