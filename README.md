@@ -7,3 +7,5 @@ Example TypeScript package
 This is an example package that does a thing. It's written in TypeScript, which unfortunately still compiles to JavaScript.
 
 This is a good package.
+
+This is a GREAT package.
